@@ -5,12 +5,15 @@
 
 .post-title {
     margin-bottom: 2px;
-    font-size: 40px;
+    font-size: 20px;
+    font-style: italic;
 }
 
 .post-description {
-    margin-top: 10px;
-    margin-bottom: 5px;
+    margin-top: 4px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-style: italic;
 }
 
 .post-meta,
@@ -30,11 +33,14 @@
 }
 
 .breadcrumbs a {
-    font-size: 16px;
+    font-size: 14px;
+    margin: 20px 0px;
+
 }
 
 .post-content {
     color: var(--content);
+    font-family: 'Bahnschrift', 'Segoe UI', sans-serif;
 }
 
 .post-content h3,
